@@ -425,7 +425,7 @@
             "name" : "Spot",
             "translation" : [
                 -3.5114688873291016,
-                6.874080657958984,
+                7.614160060882568,
                 -0.7489967346191406
             ]
         },
@@ -3393,14 +3393,14 @@
             "uri" : "Wood051_2K_Color.jpg"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : "cyberpunk77",
-            "uri" : "cyberpunk77.jpg"
+            "mimeType" : "image/png",
+            "name" : "Image from iOS",
+            "uri" : "Image%20from%20iOS.png"
         },
         {
-            "mimeType" : "image/jpeg",
-            "name" : "among us",
-            "uri" : "among%20us.jpg"
+            "mimeType" : "image/png",
+            "name" : "kim_64",
+            "uri" : "kim_64.png"
         }
     ],
     "accessors" : [
